@@ -59,9 +59,10 @@ or
 
 This will open the Jupyter Notebook software and project file in your browser.
 
-# Visuals
 
-![Image](http://localhost:8888/view/Downloads/Practical%20data%20science%20works/Customer%20Segmentation/data%20init%20head.png)
+# Data Exploration
+
+![newplot](https://user-images.githubusercontent.com/25388109/86505481-152d9980-bdbd-11ea-9d45-5a8292671f31.png)
 
 
 
