@@ -40,6 +40,9 @@ This dataframe contains 8 variables that correspond to:
 7. **CustomerID**: `Customer number`. `Nominal`, a 5-digit integral number uniquely assigned to each customer.
 8. **Country**: `Country name`. `Nominal`, the name of the country where each customer resides.
 
+#### DataFrame 
+![data init head](https://user-images.githubusercontent.com/25388109/86505675-d220f580-bdbf-11ea-8260-c165bf645c63.png)
+
 
 ## Code
 
@@ -63,6 +66,14 @@ This will open the Jupyter Notebook software and project file in your browser.
 # Data Exploration
 
 ![newplot](https://user-images.githubusercontent.com/25388109/86505481-152d9980-bdbd-11ea-9d45-5a8292671f31.png)
+
+From the Map, You'll see that the dataset is largely dominated by orders made from this first five Countries
+
+* `United Knigdom` with `19857` customers
+* `Germany` with `603` customers
+* `France` with `458` customers
+* `EIRE` with `319` customers
+* `Belgium` with `119` customers
 
 
 
