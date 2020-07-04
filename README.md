@@ -1,6 +1,4 @@
-# Content: Unsupervised Learning
-
-## Project: E-Commerce-Customer-Segmentation-Project
+# Project: E-Commerce-Customer-Segmentation-Project
 
 ## Description
 
@@ -62,6 +60,9 @@ or
 This will open the Jupyter Notebook software and project file in your browser.
 
 # Visuals
+
+![Image](http://localhost:8888/view/Downloads/Practical%20data%20science%20works/Customer%20Segmentation/data%20init%20head.png)
+[Image](http://url/a.png)
 
 # Installation
 
