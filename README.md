@@ -77,11 +77,24 @@ From the Map, You'll see that the dataset is largely dominated by orders made fr
 
 
 
-keywords Word Occurence 
+#### keywords Word Occurence 
 
 ![word occurence 1](https://user-images.githubusercontent.com/25388109/86505722-4fe50100-bdc0-11ea-9a91-b4f971b594f3.png)
 ![word occurence 11](https://user-images.githubusercontent.com/25388109/86505724-52475b00-bdc0-11ea-8373-07fef750c573.png)
 ![keywords occurence 3](https://user-images.githubusercontent.com/25388109/86505803-11037b00-bdc1-11ea-84cc-7bae63eb13e1.png)
+
+
+
+#### Product Content Word cloud
+
+![word cloud](https://user-images.githubusercontent.com/25388109/86505858-8ec78680-bdc1-11ea-8fcc-5354a5767830.png)
+
+
+
+#### PCA Customer category analysis
+
+![PCA analysis 11](https://user-images.githubusercontent.com/25388109/86505918-18775400-bdc2-11ea-9508-40b33ddc3da9.png)
+
 
 
 # Installation
