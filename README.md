@@ -22,6 +22,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 
 ## Data
+The customer segments data is included as a selection of app. 4000 data points collected on data found from an E-Commerce database, which was gotton from UCI Machine Learning Repository. You use this data in your local machine, you have to clone and unzip the `data.csv` file from this Repo.  
 
 
 
