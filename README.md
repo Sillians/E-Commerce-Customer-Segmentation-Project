@@ -104,6 +104,17 @@ From the Map, You'll see that the dataset is largely dominated by orders made fr
 
 
 
+#### Classifiers and respective learning curves
+
+
+![adaboost_learning_curve](https://user-images.githubusercontent.com/25388109/86506016-1feb2d00-bdc3-11ea-81bc-5ca083bf8916.png)
+![decision_tree_learning curve](https://user-images.githubusercontent.com/25388109/86506017-211c5a00-bdc3-11ea-8813-0f0d7f3b2222.png)
+![gradient_boosting_clf_learning_curve](https://user-images.githubusercontent.com/25388109/86506018-21b4f080-bdc3-11ea-916e-ee4270d2579b.png)
+![knn_learning curve](https://user-images.githubusercontent.com/25388109/86506019-224d8700-bdc3-11ea-992c-e43120a2d454.png)
+![lr_learning curve](https://user-images.githubusercontent.com/25388109/86506021-24afe100-bdc3-11ea-87ab-110886ca2f91.png)
+![random_forest_learning_curve](https://user-images.githubusercontent.com/25388109/86506022-25487780-bdc3-11ea-88a8-5ba35d71c89f.png)
+
+
 # Installation
 
 # Contributing
