@@ -76,6 +76,10 @@ From the Map, You'll see that the dataset is largely dominated by orders made fr
 * `Belgium` with `119` customers
 
 
+![word occurence 1](https://user-images.githubusercontent.com/25388109/86505722-4fe50100-bdc0-11ea-9a91-b4f971b594f3.png)
+![word occurence 11](https://user-images.githubusercontent.com/25388109/86505724-52475b00-bdc0-11ea-8373-07fef750c573.png)
+
+
 
 # Installation
 
