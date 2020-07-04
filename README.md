@@ -96,6 +96,13 @@ From the Map, You'll see that the dataset is largely dominated by orders made fr
 ![PCA analysis 11](https://user-images.githubusercontent.com/25388109/86505918-18775400-bdc2-11ea-9508-40b33ddc3da9.png)
 
 
+#### Customers morphology
+
+
+![customer morphology 1](https://user-images.githubusercontent.com/25388109/86505974-a81d0280-bdc2-11ea-9eb7-cc42b2fe055a.png)
+![customer morphology 11](https://user-images.githubusercontent.com/25388109/86505976-ac492000-bdc2-11ea-935b-c59341fecd37.png)
+
+
 
 # Installation
 
